@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/wordpress/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://localhost/wordpress/blog/</loc>
+	</url>
+	<url>
+		<loc>http://localhost/wordpress/introduction-to-web-based-technologies-internet-extranet-www-web-server/</loc>
+		<lastmod>2023-03-06T13:49:29+02:00</lastmod>
+		<image:image>
+			<image:loc>http://localhost/wordpress/wp-content/uploads/2023/03/WordPress-5.9.png</image:loc>
+		</image:image>
+	</url>
+</urlset>
