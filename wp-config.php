@@ -1,10 +1,10 @@
 <?php
-define( 'WP_CACHE', true );
-//Begin Really Simple SSL session cookie settings
-@ini_set('session.cookie_httponly', true);
-@ini_set('session.cookie_secure', true);
-@ini_set('session.use_only_cookies', true);
-//END Really Simple SSL cookie settings
+
+@ini_set( 'upload_max_filesize' , '512M' );
+@ini_set( 'post_max_size', '512M');
+@ini_set( 'memory_limit', '512M' );
+@ini_set( 'max_execution_time', '0' );
+@ini_set( 'max_input_time', '0' );
 
 /**
  * The base configuration for WordPress

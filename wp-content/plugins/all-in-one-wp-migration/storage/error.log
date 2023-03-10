@@ -1,0 +1,270 @@
+Mar 10 2023 15:36:39
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:36:41
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:36:53
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":171}
+
+Mar 10 2023 15:37:30
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:37:38
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:38:06
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:38:09
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:39:22
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:39:32
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:39:36
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:39:50
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:40:54
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:41:47
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:41:56
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:42:17
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:42:50
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:43:12
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:43:40
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:44:16
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:44:42
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:45:08
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:45:37
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:46:28
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:46:40
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:47:16
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:47:41
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 15:47:52
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:43:40
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:43:50
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":171}
+
+Mar 10 2023 16:44:04
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:44:36
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:45:04
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:45:39
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:46:03
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:46:36
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:48:21
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":171}
+
+Mar 10 2023 16:48:23
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Mar 10 2023 16:48:23
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Mar 10 2023 16:48:23
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Mar 10 2023 16:48:23
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Mar 10 2023 16:48:23
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Mar 10 2023 16:48:32
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Mar 10 2023 16:48:32
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Mar 10 2023 16:48:32
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Mar 10 2023 16:48:32
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Mar 10 2023 16:48:32
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Mar 10 2023 16:48:35
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:49:09
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:49:27
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Mar 10 2023 16:49:27
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Mar 10 2023 16:49:27
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Mar 10 2023 16:49:27
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Mar 10 2023 16:49:27
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Mar 10 2023 16:49:38
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Mar 10 2023 16:49:38
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Mar 10 2023 16:49:38
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Mar 10 2023 16:49:38
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Mar 10 2023 16:49:38
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Mar 10 2023 16:49:38
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:53:41
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:43
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:43
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:45
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:47
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":171}
+
+Mar 10 2023 16:53:47
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:48
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:49
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:51
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:53
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:53
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:56
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:58
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:53:59
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:04
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Mar 10 2023 16:54:04
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:06
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:11
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:11
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:17
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:23
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:23
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:29
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:33
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:35
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:37
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:40
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:41
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:42
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:44
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
+Mar 10 2023 16:54:46
+{"type":8192,"message":"Return type of FS_Key_Value_Storage::count() should either be compatible with Countable::count(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\anywhere-elementor\\freemius\\includes\\managers\\class-fs-key-value-storage.php","line":389}
+
